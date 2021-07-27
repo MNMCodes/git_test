@@ -6,3 +6,8 @@ I will then use $git commit -m "Add remotely_added_file.txt"
 
 I checked the status of the staged file with $git status
 Any unstaged and changed files would be shown in red
+
+=============================================================
+
+PARAGRAPH 1
+Blanditiis perspiciatis expedita itaque voluptatibus omnis asperiores sunt. Voluptas voluptate et tempore molestias maxime. Aut sit necessitatibus occaecati nisi aut esse aspernatur laboriosam. Assumenda velit explicabo enim. Eum sint harum id.
