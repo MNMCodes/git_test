@@ -1,0 +1,8 @@
+Using "$git clone" on the command line put the given repository on my local machine.
+
+I then "$git add remotely_added_file.txt" to stage the new file (prepared for commit but not committed yet)
+
+I will then use $git commit -m "Add remotely_added_file.txt"
+
+I checked the status of the staged file with $git status
+Any unstaged and changed files would be shown in red
